@@ -1,1 +1,1 @@
-# In this project, we analyzed a real-world dataset of forest fires in Algeria. Out goal was to determine which factors affect wildfire risk which we accomplished by modeling the Fire Weather Index using weather data and fire related indices
+# In this project, we analyzed a real-world dataset of forest fires in Algeria. Our goal was to determine which factors affect wildfire risk which we accomplished by modeling the Fire Weather Index using weather data and fire related indices
